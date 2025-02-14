@@ -3,7 +3,7 @@
 Simple app showing recipes pulled from a static json list over the network and stored in SwiftData. User is shown the image, name, cuisine, and given links to source and YouTube if these links exist. There is a search bar that searches instantly over the recipe name and cuisine. User can also browse recipes grouped by cuisine and search that view as well. The recipe image is tappable and expands, which also downloads the higher quality image and shows that instead when available. Images are stored as data URLs in SwiftData as well.
 
 #### Screenshots
-<img src="./Screenshots/Screenshot1.png" height="500"><img src="./Screenshots/Screenshot2.png" height="500"><img src="./Screenshots/Screenshot3.png" height="500"><img src="./Screenshots/Screenshot4.png" height="500">
+<img src="./FetchExercise/Screenshots/Screenshot1.png" height="500"><img src="./FetchExercise/Screenshots/Screenshot2.png" height="500"><img src="./FetchExercise/Screenshots/Screenshot3.png" height="500"><img src="./FetchExercise/Screenshots/Screenshot4.png" height="500">
 
 #### Recording
 [Screen recording](https://github.com/andrejpoljanec/FetchExercise/raw/refs/heads/main/FetchExercise/Screenshots/ScreenRecording.mp4)
